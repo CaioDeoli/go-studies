@@ -1,10 +1,15 @@
 Aqui estão minhas anotações brutas sobre Go. Quero que você:
 
-1. Reorganize o conteúdo e deixe em formato markdown bem estruturado.
-2. Verifique se as informações estão corretas e atualizadas em relação à linguagem Go.
-3. Enriqueça com explicações mais claras e exemplos práticos quando necessário.
-4. Mantenha o conteúdo objetivo e em tom de resumo didático.
-5. Ao final, adicione uma lista de resumo com os principais pontos aprendidos nesta aula.
-6. Forneça toda a resposta em um único canvas, pronta para copiar e colar.
+1. Reorganize o conteúdo e deixe em **formato Markdown bem estruturado**, usando seções, subtítulos, listas e blocos de código.
+2. Verifique se as informações estão corretas e atualizadas em relação à linguagem Go (última versão estável).
+3. Enriqueça com explicações mais claras, exemplos práticos e comentários dentro dos códigos.
+4. Mantenha o conteúdo **objetivo e em tom de resumo didático**, como uma apostila de estudos.
+5. Use **sempre o mesmo estilo de formatação**, como no exemplo abaixo:
+   - Título da aula como `# Aula X - Tema`.
+   - Ícones nos subtítulos (📦, 🔑, 📚, ℹ️, 🚀, etc) para deixar visualmente leve.
+   - Blocos de código Go com sintaxe ` ```
+6. Ao final, adicione uma seção `# ✅ Resumo da Aula` com uma lista dos principais pontos aprendidos.
+7. Forneça toda a resposta em um **único canvas**, pronta para copiar e colar.
+8. Se houver erros ou inconsistências nas minhas anotações originais, corrija e explique a forma correta.
 
 Anotações:

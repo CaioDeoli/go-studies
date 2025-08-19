@@ -241,8 +241,13 @@ coloque uma documentação do que isso faz
 ```go
 package math
 
-// SomaX é uma função que faz iss...
-func Soma
-
+// Inicie já com o comentário com o nome da função
+// SomaX é uma função que faz isso...
+func SomaX(a int) int {
+	return a + 10
+}
 ```
-//////////
+
+Quando trabalharmos com Go doc, esses comentários vão ser uteis
+E isso é só pra funções, constantes, ... exportados
+Esses comentários é documentação

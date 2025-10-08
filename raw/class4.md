@@ -1,4 +1,4 @@
-Aula 4 - Como o go trabalha com erros
+# Aula 4 - Como o go trabalha com erros
 Trabalhar e tratar erros
 
 No go o erro sempre vai se tornar algo explicito quando voce for trabalhar com a maioria das funções

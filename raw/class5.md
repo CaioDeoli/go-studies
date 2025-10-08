@@ -1,4 +1,4 @@
-Aula 5 funções
+# Aula 5 funções
 Usar uma função como um método
 
 dica: eu não aprendia um certo nivel de profundidade que as linguagens tinham. preste atenção sobre a linguagem e si, e fique a frente e torne-se mais produtivo
